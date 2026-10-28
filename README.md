@@ -17,6 +17,18 @@ Un programme Java dialogue avec le **navigateur web** grâce à la bibliothèque
 Fonctionnalités optionnelles choisies par le groupe : **moyennes par matière**, **classement** des étudiants
 et **export CSV**.
 
+## aperçu
+
+Captures de l'application finale (`Notes.java`), prises avec des données d'exemple.
+
+| saisie guidée | tableau en mode édition |
+| --- | --- |
+| ![Formulaire de saisie du nom d'une matière](docs/captures/1-saisie.png) | ![Tableau des notes colorées selon le résultat, en mode édition](docs/captures/3-tableau-edition.png) |
+
+![Tableau des notes en mode consultation, avec la moyenne pondérée de chaque étudiant](docs/captures/2-tableau-consultation.png)
+
+![Classement des étudiants par moyenne décroissante](docs/captures/4-classement.png)
+
 ## répartition du travail
 
 - **Benjamin** : squelette de la classe, liste des méthodes à implémenter (servant de *check-list*), méthodes de saisie, intégration des *text blocks* HTML.
